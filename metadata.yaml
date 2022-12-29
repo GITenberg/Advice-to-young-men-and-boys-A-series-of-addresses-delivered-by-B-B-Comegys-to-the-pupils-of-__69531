@@ -1,11 +1,16 @@
 _repo: Advice-to-young-men-and-boys-A-series-of-addresses-delivered-by-B-B-Comegys-to-the-pupils-of-__69531
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69531-h/images/cover.jpg
 creator:
   author:
     agent_name: Comegys, B. B.
     gutenberg_agent_id: '55302'
     url: http://www.gutenberg.org/2009/agents/55302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69531#Advice-to-young-men-and-boys-A-series-of-addresses-delivered-by-B-B-Comegys-to-the-pupils-of-_
 gutenberg_issued: '2022-12-12'
 identifiers:
   gutenberg: '69531'
